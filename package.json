@@ -2,12 +2,16 @@
   "name": "xycontract",
   "private": false,
   "version": "1.0.0",
-  "description": "test",
+  "description": "A simple Contract Constructor",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lin1126/xycontract.git"
+  },
+  "author": "Chen",
   "license": "ISC",
   "dependencies": {
     "ethers": "^5.6.9",
